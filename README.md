@@ -7,3 +7,6 @@ Creating an object detection system for butterflies and flowers involves collect
 # Output images : 
 ![1519325104254](https://github.com/HakNinja/ObjectDection-Yolov5/assets/54062595/555e65d7-a5a4-45eb-aecf-0b5eda06e2eb)
 ![Adobe-Stock-Dmitrii-blue-tiger-butterfly-on-pink-zinnia-flower](https://github.com/HakNinja/ObjectDection-Yolov5/assets/54062595/5cfae9c2-5f38-40a4-92f3-6204cf37abe3)
+
+
+For this project, consider : https://github.com/ultralytics/yolov5/
