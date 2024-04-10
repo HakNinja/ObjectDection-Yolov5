@@ -1,0 +1,10 @@
+
+conda install --yes --file requirements.txt
+
+python train.py --data mydata.yaml --cfg yolov5s.yaml --batch-size 8 --name Model --epochs 50
+
+python export.py --weights runs/train/Model/weights/best.pt --include torchscript onnx
+
+jupyter notebook
+
+python detect.py --weights best.pt  --source maxresdefault.jpg --view-img 

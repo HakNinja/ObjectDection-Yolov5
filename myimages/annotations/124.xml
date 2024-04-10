@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>124.jpg</filename>
+	<path>/home/hakninja/Desktop/yolo/images/124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2148</width>
+		<height>1514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>373</ymin>
+			<xmax>2011</xmax>
+			<ymax>1335</ymax>
+		</bndbox>
+	</object>
+</annotation>

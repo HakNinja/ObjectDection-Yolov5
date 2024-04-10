@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>182.jpg</filename>
+	<path>/home/hakninja/Desktop/yolo/images/182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3911</width>
+		<height>5867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>601</xmin>
+			<ymin>1279</ymin>
+			<xmax>3719</xmax>
+			<ymax>4642</ymax>
+		</bndbox>
+	</object>
+</annotation>

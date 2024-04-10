@@ -1,0 +1,6 @@
+train: myimages/train
+val: myimages/test
+nc: 2
+names: ['flower',
+        'butterfly'
+]
